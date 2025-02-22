@@ -1,2 +1,2 @@
-# MyScrimba
-My examples from Scrimba
+# Work to learn web tools
+Examples from tutorials

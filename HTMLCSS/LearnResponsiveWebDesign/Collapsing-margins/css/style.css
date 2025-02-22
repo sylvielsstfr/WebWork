@@ -1,0 +1,21 @@
+.card {
+    background: #000;
+    color: white;
+    width: 560px;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+h1 {
+    font-size: 24px;
+  
+}
+
+p {
+    font-size: 18px;  
+}
+
+.links {
+    margin-top: 45px;
+}
+    

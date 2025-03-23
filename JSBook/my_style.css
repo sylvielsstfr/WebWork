@@ -28,3 +28,67 @@
   border: 1px solid transparent;
   cursor: pointer;
 }
+
+form {
+  background-color: #f2f2f2;
+  padding: 20px;
+  width: 400px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+label {
+  display: inline-block;
+  margin-bottom: 10px;
+  font-weight: bold;
+  width: 150px;
+}
+
+input[type="text"],
+select {
+  width: 250px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+textarea {
+  width: 380px;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+input[type="submit"] {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+input[type="submit"]:hover {
+  background-color: #0bf054;
+}
+
+input[type="reset"] {
+  background-color: #4e06f5;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+input[type="reset"]:hover {
+  background-color: #f00b63;
+}
